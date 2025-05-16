@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/0e23248c78f54cf8abd737670d845bc8/artifacts
+end_time: 1747040097987
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: 0e23248c78f54cf8abd737670d845bc8
+run_name: amusing-seal-668
+run_uuid: 0e23248c78f54cf8abd737670d845bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040088747
+status: 3
+tags: []
+user_id: Quest

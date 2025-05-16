@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/e869e51919df48f8bb04bcf300253b32/artifacts
+end_time: 1747040079900
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: e869e51919df48f8bb04bcf300253b32
+run_name: wise-hawk-358
+run_uuid: e869e51919df48f8bb04bcf300253b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040071190
+status: 3
+tags: []
+user_id: Quest

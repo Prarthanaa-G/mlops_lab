@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/6bd0cf0d2532470b83dd59a37f83ff3e/artifacts
+end_time: 1747040027456
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: 6bd0cf0d2532470b83dd59a37f83ff3e
+run_name: intelligent-bass-608
+run_uuid: 6bd0cf0d2532470b83dd59a37f83ff3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040003659
+status: 3
+tags: []
+user_id: Quest

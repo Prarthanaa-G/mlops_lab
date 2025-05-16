@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/ccf26c797cfd41fc9050ca616bd8686d/artifacts
+end_time: 1747040071174
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: ccf26c797cfd41fc9050ca616bd8686d
+run_name: sedate-steed-822
+run_uuid: ccf26c797cfd41fc9050ca616bd8686d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040062653
+status: 3
+tags: []
+user_id: Quest

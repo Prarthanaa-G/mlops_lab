@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847
+creation_time: 1747039995554
+experiment_id: '801973775925609847'
+last_update_time: 1747039995554
+lifecycle_stage: active
+name: noisy_rf_gridsearch

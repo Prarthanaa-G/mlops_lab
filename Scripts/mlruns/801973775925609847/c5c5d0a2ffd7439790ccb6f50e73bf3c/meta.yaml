@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/c5c5d0a2ffd7439790ccb6f50e73bf3c/artifacts
+end_time: 1747040044007
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: c5c5d0a2ffd7439790ccb6f50e73bf3c
+run_name: luminous-fawn-998
+run_uuid: c5c5d0a2ffd7439790ccb6f50e73bf3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040035573
+status: 3
+tags: []
+user_id: Quest

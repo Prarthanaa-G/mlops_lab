@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/93e56f1ba9ef4862adf1535b016a4493/artifacts
+end_time: 1747040088731
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: 93e56f1ba9ef4862adf1535b016a4493
+run_name: awesome-elk-710
+run_uuid: 93e56f1ba9ef4862adf1535b016a4493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040079926
+status: 3
+tags: []
+user_id: Quest

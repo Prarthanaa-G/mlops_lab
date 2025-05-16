@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Quest/OneDrive/Desktop/mlops/mlops-2025-DSC/Scripts/mlruns/801973775925609847/5fc71d681f964d86b46399593985db82/artifacts
+end_time: 1747040035541
+entry_point_name: ''
+experiment_id: '801973775925609847'
+lifecycle_stage: active
+run_id: 5fc71d681f964d86b46399593985db82
+run_name: rare-calf-796
+run_uuid: 5fc71d681f964d86b46399593985db82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747040027472
+status: 3
+tags: []
+user_id: Quest
