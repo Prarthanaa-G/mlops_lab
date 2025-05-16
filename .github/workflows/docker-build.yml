@@ -1,4 +1,4 @@
-name: Build and Push Docker Image to DockerHub
+name: Build and Push Slim Docker Image
 
 on:
   push:
@@ -6,26 +6,23 @@ on:
       - main
 
 jobs:
-  build-and-push:
+  docker:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: Log in to DockerHub
+      - name: Log in to Docker Hub
         uses: docker/login-action@v3
         with:
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
 
-      - name: Build Docker image
+      - name: Build Docker Image
         run: |
-          docker build -t ${{ secrets.DOCKER_USERNAME }}/loan-risk-app:latest .
+          docker build -t prarthana11g/loan-risk-app-slim:latest .
 
-      - name: Push Docker image to DockerHub
+      - name: Push Docker Image
         run: |
-          docker push ${{ secrets.DOCKER_USERNAME }}/loan-risk-app:latest
+          docker push prarthana11g/loan-risk-app-slim:latest
